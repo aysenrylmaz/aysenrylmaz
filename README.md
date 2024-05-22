@@ -1,9 +1,10 @@
+![MasterHead](https://www.linkedin.com/in/aysenrylmaz/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm AYSENUR YILMAZ</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
 - 🔭 I’m currently working on **mantel + schölzel AG: Software Solutions**
 
-- 🌱 I’m currently learning **CS50's Introduction to Computer Science**
+- 🌱 I’m currently studying **CS50's Introduction to Computer Science**
 
 - 📫 How to reach me **aysenrylmaz357@gmail.com**
 
