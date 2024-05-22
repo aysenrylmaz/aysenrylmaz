@@ -1,5 +1,5 @@
-![MasterHead](https://www.linkedin.com/in/aysenrylmaz/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm AYSENUR YILMAZ</h1>
+
 <h3 align="center">A passionate software developer from Germany</h3>
 
 - 🔭 I’m currently working on **mantel + schölzel AG: Software Solutions**
